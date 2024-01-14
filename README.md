@@ -75,7 +75,6 @@ $ git clone https://github.com/------/AirBnB_clone.git
 python3 (3.4.3)
 
 ## Authors 🖋️
+Mercy Cherono        ~`github @Mcherono`
 
-Jesica Akeyo        ~`github @Jesica-akeyo`
-
-Evans Kiprotich     ~`github @KEvans254`
+Brian Kipkoech     ~`github @BrianKipkoechh`
